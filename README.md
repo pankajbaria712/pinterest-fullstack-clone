@@ -1,4 +1,4 @@
-```markdown
+
 # 📌 Pinterest Full-Stack Clone (MERN)
 
 A full-stack **Pinterest-inspired** web application built by **Pankaj Baria** using the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
@@ -65,7 +65,7 @@ This project replicates the core features of Pinterest — allowing users to **u
 |------------|--------------|
 | ![Home](assets/home-preview.png) | ![Pin](assets/pin-preview.png) |
 
-> *(Replace with your actual screenshots after building the UI)*
+> *(Screenshoots will be uploaded soon 🤔)*
 
 ---
 
